@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang = "es">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ejercicio 5</title>
+</head>
+
+<body>
+<h1>HTML 5 y CSS 3</h1>
+
+<h2>HTML 5</h2>
+<figure>
+<img src="objetos-texto/html5-logo.svg" alt="logo HTML5">
+<figcaption>Logo de HTML5</figcaption>
+</figure>
+
+<P>El 28 de Octubre de 2014 se aprobó la Recomendación HTML 5, </P>
+</body>
+</html>
