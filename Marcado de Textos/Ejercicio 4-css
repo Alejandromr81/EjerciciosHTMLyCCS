@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 4-css</title>
+    <style type="text/css">
+        body {
+            background-color:#d3dade;
+        }
+
+        h1 {
+          text-align: center;
+          text-transform: uppercase;
+        }
+
+        p {
+            background-color: #b5c2c8;
+        }
+
+        h2 {
+            background-color: #7b919d;
+        }
+
+        #importante {
+            text-align: right;
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    
+    
+    <h1>
+    <pre>
+     Currículum Vitae de Chema Pamundi
+    </pre>  
+    </h1>
+    <p>
+        Este es un ejemplo de Mini-Currículum vitae. Cualquier parecido con la realidad es pura coincidencia.
+    </p>
+    <h2>
+        Datos personales
+    </h2>
+    <p>
+        <strong>Nombre y Apellidos:</strong> Chema Pamundi
+    </p>
+    <p>
+        <strong>Dirección:</strong> C./Luis Moya, nº 13.p. 7 - 33203 - Gijón
+    </p>
+    <p>
+    <strong>D.N.I.:</strong> 12-345.678-S
+    </p>
+    <pre id="importante">
+                                                               <b>Correo electrónico:</b> cpamundi@lalaboral.es
+    </pre>
+    <h2>
+        Educacion y formación
+    </h2>
+    <p>
+        <b>2015-2017:</b> Ciclo Formativo de Grado Superior Desarrollo de Aplicaciones Web CIFP La Laboral (Gijon).
+    </p>
+    <p>
+        <b>2013-2015:</b> Ciclo Formativo de Grado Medio de Actividades Comerciales. CIFP La Laboral (Gijon).
+    </p>
+    <h3>
+        Capacidades y aptitudes personales
+    </h3>
+    <p>
+        <b>Idiomas</b>
+    </p>
+    <p>
+        <b>Inglés:</b> Nivel Alto. Titulo nivel C1, por la Escuela Oficial de Idiomas de Gijon.
+    </p>
+</body>
+</html>
