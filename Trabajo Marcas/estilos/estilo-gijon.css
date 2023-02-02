@@ -1,0 +1,191 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+h1{
+    text-align: center;
+    background-color:darkred;
+    color:white;
+    padding: 20px;
+}
+
+h2{
+    background-color:#ff7474;
+    text-align: left;
+    clear:both;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    color:white;
+    
+}
+
+h3{
+    text-align: left;
+    margin-left: 20px;
+}
+
+h4{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+div.Escudo img{
+    margin-right: 250px;
+    width: 150px;
+    float: right;
+    border: 1px solid #ccc;
+
+}
+
+div.Bandera img{
+    margin-left: 250px;
+    width: 400px;
+    float: left;
+    border: 1px solid #ccc;
+}
+
+
+div.GijonCentro {
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.GijonCentro:hover {
+    border: 1px solid #777;
+}
+
+div.GijonCentro img {
+    margin-left: 20px;
+    width: 125%;
+    height: auto;
+
+}
+
+div.GijonEste {
+    margin-left: 125px;
+    margin-right: 125px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    
+}
+
+div.GijonEste:hover {
+    border: 1px solid #777;
+}
+
+div.GijonEste img {
+    width: 125%;
+    height: auto;
+
+}
+
+div.GijonOeste {
+    margin-left: 125px;
+    margin-right: 125px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.GijonOeste:hover {
+    border: 1px solid #777;
+}
+
+div.GijonOeste img {
+    width: 125%;
+    height: auto;
+
+}
+
+div.GijonSur {
+    margin-left: 125px;
+    margin-right: 125px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    
+}
+
+div.GijonSur:hover {
+    border: 1px solid #777;
+}
+
+div.GijonSur img {
+    width: 125%;
+    height: auto;
+
+  
+}
+
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+nav ul {
+    background-color:rgb(228, 62, 62);
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li{
+    display: inline-flex;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+}
+
+nav li:hover {
+    background-color: darkred;
+}
+
+footer{
+    width: 100%;
+    height: 200px;
+    margin-top: 40px;
+}
+
+table{
+    margin:0 auto;
+}
+
+th{
+    border-color:crimson;
+    border-style:groove;
+    text-align:center;
+
+}
+
+
+
+
+ img{
+    float:right;
+    width: 400px;
+    height: 300px;
+    margin-right: 70px;
+
+}
